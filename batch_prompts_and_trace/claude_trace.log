@@ -1,0 +1,3 @@
+2025-07-10 16:24:43,980 - 🔍 Calling process_batch_prompts with args: ([{'id': 'task-1', 'prompt': 'Create a unit test for coin_change.py, save the result in coin_change_with_unit_test.py'}, {'id': 'task-2', 'prompt': 'Optimize this database query in customer_order.sql, save the result in customer_order_optimized.sql'}, {'id': 'task-3', 'prompt': 'Fix the bug in buggy_quick_sort.py, save the result in fixed_quick_sort.py'}],)
+2025-07-10 16:24:43,981 - 📤 process_batch_prompts returning: <coroutine object process_batch_prompts at 0x7fc9970f4e40>
+2025-07-10 16:24:43,981 - Using selector: KqueueSelector
