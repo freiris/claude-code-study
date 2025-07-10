@@ -1,0 +1,14 @@
+🔍 Calling quicksort with args: ([64, 34, 25, 12],)
+🔍 Calling quicksort with args: ([34, 25, 12],)
+🔍 Calling quicksort with args: ([25, 12],)
+🔍 Calling quicksort with args: ([12],)
+📤 quicksort returning: [12]
+🔍 Calling quicksort with args: ([],)
+📤 quicksort returning: []
+📤 quicksort returning: [12, 25]
+🔍 Calling quicksort with args: ([],)
+📤 quicksort returning: []
+📤 quicksort returning: [12, 25, 34]
+🔍 Calling quicksort with args: ([],)
+📤 quicksort returning: []
+📤 quicksort returning: [12, 25, 34, 64]
